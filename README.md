@@ -1,0 +1,2 @@
+# python
+basit python uygulamaları
